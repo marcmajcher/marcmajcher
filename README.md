@@ -2,6 +2,7 @@ They said that if I put stuff here, you would see it.
 
 Looks like they were right.
 
+![Marc's Github Stats](https://github-readme-stats.vercel.app/api?username=marcmajcher&count_private=true&show_icons=true&theme=tokyonight)
 <!--
 **marcmajcher/marcmajcher** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
