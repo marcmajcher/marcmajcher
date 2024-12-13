@@ -4,6 +4,7 @@ Looks like they were right.
 
 Here are a few little things hosted here that you can poke at:
 
+* [hplipsum — an H.P. Lovecraft lorem ipsum generator](https://hplipsum.com/)
 * [Fifteen Thousand Useful Phrases](https://marcmajcher.github.io/15kphrases/)
 * [Hexle - Turn your Wordle score into a hexmap](https://hexle.me/)
 * [Jerry's Map Explorer](https://marcmajcher.github.io/jerrysmap/)
